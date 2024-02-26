@@ -45,3 +45,21 @@
  Price per Area: 면적(m^2)당 가격 
  
  Price per Area Log Scale: 면적당 가격에 자연 로그를 취한 값 (타겟변수)
+
+ Total Population: 해당 동의 총 인구 (2024년 2월 기준)
+
+ Children: 어린이 수 (0~12)
+ 
+ Adolescent: 청소년 수 (12~18)
+ 
+ Youth: 청년 수 (19~40)
+ 
+ Middle-Aged: 중장년 수 (41~65)
+ 
+ Old Age: 노년 수 (65~109)
+ 
+ Elementary Schools Within 700m: 700m내 초등학교 수
+ 
+ Nearby Hangang	: 1km내에 한강 중심이 있을 경우 1, 아닐경우 0
+ 
+ Prestigious School Within 2500m : 진학률 상위 50개 일반 고등학교가 2500m내에 위치한 수
