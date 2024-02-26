@@ -1,6 +1,6 @@
 # 2jo
 
-## 컬럼에 대한 설명 (price_list_final.csv)
+## 컬럼에 대한 설명 (price_list_final2.csv)
 
  Date : 거래일
 
@@ -50,15 +50,15 @@
 
  Total Population: 해당 동의 총 인구 (2024년 2월 기준)
 
- Children: 어린이 수 (0~12) , ver3 - 비율
+ Children: 어린이 비율 (0~12)
  
- Adolescent: 청소년 수 (12~18), ver3 - 비율
+ Adolescent: 청소년 비율 (12~18)
  
- Youth: 청년 수 (19~40), ver3 - 비율
+ Youth: 청년 비율 (19~40)
  
- Middle-Aged: 중장년 수 (41~65), ver3 - 비율
+ Middle-Aged: 중장년 비율 (41~65)
  
- Old Age: 노년 수 (65~109), ver3 - 비율
+ Old Age: 노년 비율 (65~109)
  
  Elementary Schools Within 700m: 700m내 초등학교 수
  
