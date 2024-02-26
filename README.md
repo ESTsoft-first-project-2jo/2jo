@@ -1,4 +1,4 @@
-## 컬럼에 대한 설명 (price_list.csv)
+## 컬럼에 대한 설명 (price_list_ver3.csv)
 
  Date : 거래일
 
