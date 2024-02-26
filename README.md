@@ -1,4 +1,4 @@
-## 컬럼에 대한 설명 (price_list_ver3.csv)
+## 컬럼에 대한 설명 (price_list_final.csv)
 
  Date : 거래일
 
@@ -72,4 +72,4 @@
  
  Jeonse Index : 매매가 대비 전세가 비율
  
- Construction Firm in Rank : 랭크 10위권 밖 (0), 랭크 6~10(1), 랭크 1~5(2)
+ Construction Firm in Rank : 랭크 10위권 밖 (0), 랭크 6 to 10 (1), 랭크 1 to 5(2)
