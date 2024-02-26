@@ -48,15 +48,15 @@
 
  Total Population: 해당 동의 총 인구 (2024년 2월 기준)
 
- Children: 어린이 수 (0~12)
+ Children: 어린이 수 (0~12) , ver3 - 비율
  
- Adolescent: 청소년 수 (12~18)
+ Adolescent: 청소년 수 (12~18), ver3 - 비율
  
- Youth: 청년 수 (19~40)
+ Youth: 청년 수 (19~40), ver3 - 비율
  
- Middle-Aged: 중장년 수 (41~65)
+ Middle-Aged: 중장년 수 (41~65), ver3 - 비율
  
- Old Age: 노년 수 (65~109)
+ Old Age: 노년 수 (65~109), ver3 - 비율
  
  Elementary Schools Within 700m: 700m내 초등학교 수
  
