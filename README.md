@@ -69,3 +69,7 @@
  Hospital Within 1km: 1km 이내에 위치한 병/의원 수
  
  Park Presence Within 1km : 1km내에 공원 혹은 하천이 있는지 여부
+ 
+ Jeonse Index : 매매가 대비 전세가 비율
+ 
+ Construction Firm in Rank : 랭크 10위권 밖 (0), 랭크 6~10(1), 랭크 1~5(2)
