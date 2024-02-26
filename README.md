@@ -63,3 +63,9 @@
  Nearby Hangang	: 1km내에 한강 중심이 있을 경우 1, 아닐경우 0
  
  Prestigious School Within 2500m : 진학률 상위 50개 일반 고등학교가 2500m내에 위치한 수
+
+ Market Within 1km: 1km내에 위치한 상업시설 수
+ 
+ Hospital Within 1km: 1km 이내에 위치한 병/의원 수
+ 
+ Park Presence Within 1km : 1km내에 공원 혹은 하천이 있는지 여부
