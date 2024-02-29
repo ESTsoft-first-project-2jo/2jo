@@ -1,6 +1,6 @@
 # 2jo
 
-## 컬럼에 대한 설명 (price_list_final2.csv)
+## 컬럼에 대한 설명 (price_list_real_real_final.csv)
 
  Date : 거래일
 
