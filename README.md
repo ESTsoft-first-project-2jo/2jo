@@ -4,6 +4,7 @@
 -----
 
 최근, 부동산 가격이 급등락하며 가격예측이 힘들어지는 실정이며 아파트 부동산 매매의 타이밍에 대한 고민도 늘어가고 있다.
+
 이에 정확한 아파트 가격을 예측하여 이런 이들에게 도움이 되고자 하는 마음에서 프로젝트를 시작하였다.
 
 ## 🕘 프로젝트 기간
@@ -341,14 +342,14 @@ root.mainloop()
 
 > 기본 화면
 
-<img width="341" alt="image" src="https://github.com/ESTsoft-first-project-2jo/2jo/assets/160453988/5f83c8f9-453f-4b21-b123-8ca33fa274df">
+<img width="376" alt="image" src="https://github.com/ESTsoft-first-project-2jo/2jo/assets/160453988/5f83c8f9-453f-4b21-b123-8ca33fa274df">
 
 > 구와 동을 선택하고 아파트 가격을 입력하면 기존에 학습된 머신러닝 모델을 통해서 가격예측을 시작함
 
 
 <img width="599" alt="image" src="https://github.com/ESTsoft-first-project-2jo/2jo/assets/160453988/679f8672-2bca-468d-a421-1432d89b40ad">
 
-> 실제 데이터와 큰 차이가 없는 모습
+> 실제 데이터와 큰 차이가 없는 모습을 볼 수 있다.
 
 
 
