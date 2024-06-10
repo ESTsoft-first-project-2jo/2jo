@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=AABDB6&height=200&section=header&text=WASSUP%20PROJECT%20TEAM2&fontColor=FFFFFF&fontSize=60)
 ## 프로젝트 소개
 
 ### 서울시 아파트 매매가 예측
